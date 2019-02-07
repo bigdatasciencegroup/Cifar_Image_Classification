@@ -1,7 +1,7 @@
 # Cifar_Image_Classification
 Basic Image Classification
 
-- imageviewer.py: demonstrates how the image file data is organized. It also uses matplotlib to display the image.
+- cifarImageviewer.py: demonstrates how the image file data is organized. It also uses matplotlib to display the image.
 - cifarCnn.py: runs the image training code.
 
 ## Installation steps
